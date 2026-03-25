@@ -1,6 +1,6 @@
----
 ## 🎙️ Python Schools 2026
-# Curso de Python aplicado al desarrollo de un producto mínimio viable para Oriente Estero, la radio comunitaria. 
+
+## Curso de Python aplicado al desarrollo de un producto mínimio viable para Oriente Estero, la radio comunitaria. 
 Este repositorio contiene los cuadernos recopilados del curso de Python para PythonSchools y el material de apoyo. El contenido de estos notebooks estan alineados con el desarrollo del MVP para la radio Oriente Estereo. Este material es la base pedagógica para la contruccion del producto. 
 
 ---
@@ -25,17 +25,18 @@ Este repositorio contiene los cuadernos recopilados del curso de Python para Pyt
 | S9 | Backup a AWS S3 (segunda capa) |
 | S10 | Sistema completo + entrega a Oriente Stereo |
 
+---
 ## 🛠️ Configuración inicial de cuentas (GitHub + Colab)
 Antes de comenzar, cada estudiante debe:
 
-## ✔ Crear una cuenta en GitHub  
+# ✔ Crear una cuenta en GitHub  
 https://github.com
 
-## ✔ Crear una cuenta en Google  
+# ✔ Crear una cuenta en Google  
 Usada para Colab.
 
-## ✔ Activar Google Colab  
+# ✔ Activar Google Colab  
 Entra a → https://colab.research.google.com
 
-## ✔ Autorizar a Colab a conectarse con GitHub  
+# ✔ Autorizar a Colab a conectarse con GitHub  
 Esto aparece automáticamente al guardar un archivo por primera vez en GitHub desde Colab.
